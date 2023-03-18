@@ -3,7 +3,7 @@ BreizhCTF 2023 - Challenges Blockchain
 
 J'ai eu la chance d'avoir pu créer les challenges blockchain du breizhCTF 2023. Ce fut possible grâce à [GCC](https://twitter.com/gcc_ensibs?s=20), le club CTF de mon école.
 
-Chellenges
+Challenges
 ----------
 
   1 - Blockchain-101
