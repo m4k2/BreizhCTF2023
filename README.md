@@ -7,10 +7,15 @@ Chellenges
 ----------
 
   1 - Blockchain-101
+  
   2 - Chateau
+  
   3 - Radom Game
+  
   4 - Lucky
+  
   5 - Mutable Potion
+  
   6 - Broceliande
 
 Commencer
