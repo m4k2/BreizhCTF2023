@@ -1,7 +1,7 @@
 # Broceliande
 
 ## Objectif
-L'objectif est de volé tout ses ethers à Panoramix
+L'objectif est de volé tout ses ethers à Getafix
 
 ## Détails
 Le smart contract "Panoramix" est vulnérable à une attaque en trois étapes :
